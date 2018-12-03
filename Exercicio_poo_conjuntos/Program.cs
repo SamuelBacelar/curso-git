@@ -44,7 +44,7 @@ namespace Exercicio_poo_conjuntos
             Novo.UnionWith(B);
             Novo.UnionWith(C);
             Console.Write("Total de alunos: " + Novo.Count);
-
+            Console.Write("Testando o git");
 
             Console.ReadLine();
         }
